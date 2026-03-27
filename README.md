@@ -1,5 +1,5 @@
 # 🎮 SavePoint – Finanças em Modo Easy 💰
-> **Status do Projeto:** DIO Vibe Coding
+
 
 ## ✨ A Vibe do Projeto
 O **SavePoint** nasceu da ideia de que controlar dinheiro não precisa ser uma "boss fight" impossível. Utilizando o conceito de **Vibe Coding**, transformei a necessidade chata de organizar boletos em uma experiência de RPG. Aqui, o usuário não apenas anota gastos; ele gerencia seu inventário, ganha XP ao economizar e recebe dicas de um "Sensei Financeiro" via chat.
