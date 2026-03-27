@@ -72,6 +72,13 @@ Trabalhar com **Vibe Coding** foi um divisor de águas na minha forma de pensar 
 * **ChatGPT/Gemini:** Como mentores de arquitetura.
 * **Markdown:** Para esta documentação.
 
+* ### 📊 Atributos do Jogador Financeiro
+Para tornar o controle mais intuitivo, o app utiliza a seguinte metáfora:
+
+* **Nível de Vida (HP) [Salário/Renda]:** Representa a sua energia vital no mês. Receber dinheiro "cura" o seu personagem.
+* **Barra de Mana [Orçamento]:** Define o quanto de "magia" (compras e lazer) você pode usar sem esgotar sua vida. 
+* **Gráfico de Inventário:** Um visualizador de progresso que compara o HP total vs. o consumo de Mana, permitindo prever se você chegará ao fim da "fase" (mês) com saldo positivo.
+
 ---
 
 ## 👨‍💻 Autor
