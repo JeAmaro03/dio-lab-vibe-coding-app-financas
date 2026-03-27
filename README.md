@@ -48,7 +48,8 @@ Aqui estão os registros da "conversa" criativa entre eu e a IA:
   > *[<img width="661" height="712" alt="image" src="https://github.com/user-attachments/assets/dedc1ca6-f92f-4dba-9765-d900811619e6" />
 ]*
 * **Fase 2: Prototipagem no Lovable**
-  > *<img width="988" height="851" alt="image" src="https://github.com/user-attachments/assets/09d70b81-70a5-475e-a6fd-8f63f7bc440c" />
+  > *<img width="987" height="847" alt="image" src="https://github.com/user-attachments/assets/eb47b49d-40c3-4460-9d21-d3be4bf733ea" />
+/>
 
 
 ---
@@ -59,7 +60,7 @@ Trabalhar com **Vibe Coding** foi um divisor de águas na minha forma de pensar 
 * **O que funcionou bem?**
   A capacidade da IA de entender metáforas. Ao pedir uma "vibe de inventário de jogo", ela gerou layouts muito mais criativos do que se eu tivesse pedido um "dashboard financeiro padrão".
 * **O que não funcionou como esperado?**
-  Algumas vezes a IA tentava complicar a interface com muitos botões. Tive que usar prompts de "correção de rota" para manter o foco na simplicidade do chat.
+  A não colocou uma interface para o registro de salario , fiz algumas modificações para adicionar uma nova barra de vida onde ela iria aumentando a cada valor adicionado a mais.
 * **O que aprendi?**
   Aprendi que ser um bom desenvolvedor no futuro próximo é, em grande parte, ser um excelente comunicador. Saber passar a "intenção" é tão importante quanto saber a sintaxe.
 
